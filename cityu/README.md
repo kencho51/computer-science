@@ -13,6 +13,13 @@ Details of the program requirements at [here](https://www.cityu.edu.hk/catalogue
 
 
 ### Study plan - Elective course
+
 | Course | Title | Semester | Year | Credits |
 | ------ | ----- | -------- | ---- | ------- |
 | CS8695 | Research in Computer Science | A | 2024-2025 | 2 |
+
+### Required course
+
+| Course | Title | Semester | Year | Credits |
+| ------ | ----- | -------- | ---- | ------- |
+| SG8001 | SG8001 Teaching Students: First Steps | A | 2024-2025 | 1 |
